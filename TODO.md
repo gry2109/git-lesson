@@ -5,3 +5,5 @@
 - [ ] get stuck in traffic on way home 
 - [ ] change list 
 - [ ] list change again
+- [x] edit the file on github
+- [x] ~cross out some text~ 
